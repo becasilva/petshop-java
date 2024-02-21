@@ -1,6 +1,6 @@
 # 🖥 Projeto de sistema em Java para uma Pet Shop! 🐱🐶
 
-Este projeto foi criado por [Rebeca Barros da Silva](https://www.linkedin.com/in/rebeca-barros0922/) no último ano do ensino estadual profissionalizante (médio + técnico) do estado do Ceará.
+Este projeto foi criado por [Rebeca Domingos](https://www.linkedin.com/in/rebeca-barros0922/) no último ano do ensino médio/técnico de Informática da escola estadual profissionalizante do estado do Ceará.
 
 ### Objetivo
 O objetivo do programa é servir de software de administração geral de um empreendimento de Pet Shop.
